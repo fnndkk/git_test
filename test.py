@@ -1,3 +1,4 @@
+#Yandexlyceum
 def func():
     print('hello world')
 
