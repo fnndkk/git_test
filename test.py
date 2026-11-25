@@ -9,6 +9,7 @@ def main():
     print('after GitHub')
     print('ufo edited this file hahaha')
     func()
+    print(1)
 
 
 if __name__ == '__main__':
